@@ -1,4 +1,0 @@
-coincurve
-bit
-base58
-requests
